@@ -1,0 +1,57 @@
+ 
+Tarif: KTMU Manas yemekhanesinde yemekleri bakmak icin bir app.
+Asil amac: girdiginde yemeklerin listesini gormek.
+Ikinci ... amac(lar): her yemegin detaylarini gorebilmek (foto, tarifi, kalorisi)
+
+        |
+        |
+        |
+        v
+
+
+Bunu yapmak icin gereken seyler:
+a) veri (data)
+b) ...magic!!...
+c) veriyi kullaniciya gostermek
+
+
+        |
+        |
+        |
+        v
+
+
+Birinci problem: veriyi nereden alacaz?
+a) App icinde olacak
+b) Manas sitesinde almak
+c) Kullanici kendisi giriyor
+
+Secilmis variant: b
+
+        |
+        |
+        |
+        v
+
+Veri formati: html
+Veri alma yolu: http
+
+
+        |
+        |
+        |
+        v
+
+Birinci mesele: Java'da HTTP request yapmayi ogrenmek
+HTTP nedir?
+Nasil yapilir?
+
+
+        |
+        |
+        |
+        v
+
+Veri var. Yeni problem de var oldu. Veriler пишмэгэн. Onlari okuyup anlamak gerek.
+
+
